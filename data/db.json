@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi recusandae nobis, eius ipsa architecto explicabo fugiat quas error et rerum est perferendis eveniet expedita. Commodi dolores eos dolorum, cumque cum voluptatum sed at inventore quam, omnis exercitationem accusantium dolore eaque explicabo ducimus dolor recusandae excepturi? Nam non temporibus delectus optio dolore ut aliquam debitis molestiae? Recusandae odit consectetur pariatur id porro sequi et quasi eius architecto, rem adipisci repellendus enim doloremque consequuntur saepe? Accusantium temporibus quaerat expedita commodi totam voluptatem cum vitae sequi, perferendis veniam voluptatibus voluptates dolorum, voluptatum corporis. Ad itaque nam accusamus exercitationem sed ea earum voluptas voluptates!",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "Why to not watch Drishyam2",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi recusandae nobis, eius ipsa architecto explicabo fugiat quas error et rerum est perferendis eveniet expedita. Commodi dolores eos dolorum, cumque cum voluptatum sed at inventore quam, omnis exercitationem accusantium dolore eaque explicabo ducimus dolor recusandae excepturi? Nam non temporibus delectus optio dolore ut aliquam debitis molestiae? Recusandae odit consectetur pariatur id porro sequi et quasi eius architecto, rem adipisci repellendus enim doloremque consequuntur saepe? Accusantium temporibus quaerat expedita commodi totam voluptatem cum vitae sequi, perferendis veniam voluptatibus voluptates dolorum, voluptatum corporis. Ad itaque nam accusamus exercitationem sed ea earum voluptas voluptates!",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "Today is a good day",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi recusandae nobis, eius ipsa architecto explicabo fugiat quas error et rerum est perferendis eveniet expedita. Commodi dolores eos dolorum, cumque cum voluptatum sed at inventore quam, omnis exercitationem accusantium dolore eaque explicabo ducimus dolor recusandae excepturi? Nam non temporibus delectus optio dolore ut aliquam debitis molestiae? Recusandae odit consectetur pariatur id porro sequi et quasi eius architecto, rem adipisci repellendus enim doloremque consequuntur saepe? Accusantium temporibus quaerat expedita commodi totam voluptatem cum vitae sequi, perferendis veniam voluptatibus voluptates dolorum, voluptatum corporis. Ad itaque nam accusamus exercitationem sed ea earum voluptas voluptates!",
+      "likes": 100
+    },
+    {
+      "id": 4,
+      "title": "Why my brother is a Chutiya",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi recusandae nobis, eius ipsa architecto explicabo fugiat quas error et rerum est perferendis eveniet expedita. Commodi dolores eos dolorum, cumque cum voluptatum sed at inventore quam, omnis exercitationem accusantium dolore eaque explicabo ducimus dolor recusandae excepturi? Nam non temporibus delectus optio dolore ut aliquam debitis molestiae? Recusandae odit consectetur pariatur id porro sequi et quasi eius architecto, rem adipisci repellendus enim doloremque consequuntur saepe? Accusantium temporibus quaerat expedita commodi totam voluptatem cum vitae sequi, perferendis veniam voluptatibus voluptates dolorum, voluptatum corporis. Ad itaque nam accusamus exercitationem sed ea earum voluptas voluptates!",
+      "likes": 19
+    }
+  ]
+}
